@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-# groq-project
-=======
-Perfect 👍 Tumne 4 tasks complete kiye hain (Groq, Gemini APIs, Ollama, Summarization system). Har ek ke liye alag README bana dete hain jisme:
 
-* **Project description**
-* **Files structure**
-* **Installation steps**
-* **Running steps**
 
----
-
-## 1️⃣ README for **Groq**
+## 1️⃣  **Groq**
 
 ````markdown
 # 🚀 Groq LLM Integration
